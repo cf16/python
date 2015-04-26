@@ -52,7 +52,6 @@ query_in = eval(input())
 #print(tree_in)
 #print("query_in: ")
 #print(query_in)
-print("\n")
 # get vertices list
 tree_create(tree_in,vertices)
 #print(vertices)
