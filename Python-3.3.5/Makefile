@@ -28,8 +28,8 @@ MODLIBS=        $(LOCALMODLIBS) $(BASEMODLIBS)
 VERSION=	3.3
 srcdir=		.
 
-abs_srcdir=	/home/piter/projects/python/Python-3.3.5
-abs_builddir=	/home/piter/projects/python/Python-3.3.5
+abs_srcdir=	/home/peter/projects/git/python/Python-3.3.5
+abs_builddir=	/home/peter/projects/git/python/Python-3.3.5
 
 
 CC=		gcc -pthread
@@ -102,7 +102,7 @@ MACHDEP=	linux
 MULTIARCH=	x86_64-linux-gnu
 
 # Install prefix for architecture-independent files
-prefix=		/opt/python3.3
+prefix=		/usr/local
 
 # Install prefix for architecture-dependent files
 exec_prefix=	${prefix}
@@ -163,7 +163,7 @@ EXEMODE=	755
 FILEMODE=	644
 
 # configure script arguments
-CONFIG_ARGS=	 '--prefix=/opt/python3.3'
+CONFIG_ARGS=	
 
 
 # Subdirectories with code
