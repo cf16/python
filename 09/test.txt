@@ -1,0 +1,6 @@
+( "Chatka Puchatka" , "Alan A . Milne" , 2014 , (2014 , 4 , 10))
+( "Quo Vadis" , "Henryk Sienkiewicz" , 2010 , (2014 , 1 , 15))
+( "Chatka Puchatka" , "Alan A . Milne" , 1998 , (2013 , 12 , 31))
+( "Pan Tadeusz" , "Adam Mickiewicz" , 2003 , (2012 , 1 , 1))
+( "Quo Vadis" , "Henryk Sienkiewicz" , 2010 , (2014 , 1 , 15))
+(2013 , 12 , 31)
